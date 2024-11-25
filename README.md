@@ -1,4 +1,9 @@
-# DevChallenges.io - Device Shop Checkout
+live link: https://mi-rabby.github.io/shopping-cart/
+
+
+
+
+#DevChallenges.io - Device Shop Checkout
 
 ![Thumbnail for the Device Shop Checkout coding challenge](./thumbnail.jpg)
 
